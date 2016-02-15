@@ -14,7 +14,7 @@ Meetings are at Michael Smith Building, Monday 11AM to 12PM.
 |30th Nov 2015 | Syed Murtuza Baker	 | [Bayesian approach to single-cell differential expression analysis](http://www.nature.com/nmeth/journal/v11/n7/full/nmeth.2967.html) | A.1018 |
 |28th Jan 2016 | Mudassar Iqbal | [Zero inflated Factor analysis](http://www.genomebiology.com/2015/16/1/241) |  A.3025 |
 |28th Jan 2016 | Mudassar Iqbal | [Zero inflated Factor analysis](http://www.genomebiology.com/2015/16/1/241) |  A.3025 |
-|15th  Feb 2016 | Nick Phillips | |   |
+|22nd  Feb 2016 | Nick Phillips | |   |
 |29nd Feb 2016 | Veronica Biga | |   |
 
 
