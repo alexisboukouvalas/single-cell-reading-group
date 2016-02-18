@@ -13,7 +13,7 @@ Meetings are at Michael Smith Building, Monday 11AM to 12PM.
 |16th Nov 2015 | Luisa Cutillo | [Single-cell LVM](http://www.nature.com/nbt/journal/v33/n2/full/nbt.3102.html)| A.2025 |
 |30th Nov 2015 | Syed Murtuza Baker	 | [Bayesian approach to single-cell differential expression analysis](http://www.nature.com/nmeth/journal/v11/n7/full/nmeth.2967.html) | A.1018 |
 |28th Jan 2016 | Mudassar Iqbal | [Zero inflated Factor analysis](http://www.genomebiology.com/2015/16/1/241) |  A.3025 |
-|29nd Feb 2016 | Veronica Biga | [Battich et al., 2015 Cell 163](http://www.sciencedirect.com/science/article/pii/S0092867415014981) |   |
+|29nd Feb 2016 | Veronica Biga | [Control of Transcript Variability in Single Mammalian Cells](http://www.sciencedirect.com/science/article/pii/S0092867415014981) |   |
 |14th Mar 2016 | Nick Phillips | |   |
 
 
