@@ -15,7 +15,7 @@ Meetings are at Michael Smith Building, Monday 11AM to 12PM.
 |28th Jan 2016 | Mudassar Iqbal | [Zero inflated Factor analysis](http://www.genomebiology.com/2015/16/1/241) |  A.3025 |
 |29nd Feb 2016 | Veronica Biga | [Control of Transcript Variability in Single Mammalian Cells](http://www.sciencedirect.com/science/article/pii/S0092867415014981) |  A.4025/6 |
 |21st Mar 2016 | Ximena Soto rodriguez | |  D.3301  |
-|11th Apr 2016 | Nick Phillips | |   |
+|11th Apr 2016 | Nick Phillips (2-3pm) | | B.4208   |
 |18th Apr 2016 | Polly Downton | |   	A.4025/6  |
 
 
