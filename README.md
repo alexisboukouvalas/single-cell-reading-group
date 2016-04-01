@@ -17,6 +17,8 @@ Meetings are at Michael Smith Building, Monday 11AM to 12PM.
 |4th Apr 2016 | Ximena Soto rodriguez | [Dynamics of epigenetic regulation at the single-cell level](http://science.sciencemag.org/content/351/6274/720) |  D.3301  |
 |11th Apr 2016 | Nick Phillips (2-3pm) | | B.4208   |
 |18th Apr 2016 | Polly Downton | |   	A.4025/6  |
+|2nd May 2016 | Syed Murtuza Baker | [Classification of low quality cells from single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0888-1) |   A.4025/6	  |
+
 
 
 
