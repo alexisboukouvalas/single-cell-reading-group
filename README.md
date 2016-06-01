@@ -16,7 +16,7 @@ Meetings are at Michael Smith Building, Monday 11AM to 12PM.
 |29nd Feb 2016 | Veronica Biga | [Control of Transcript Variability in Single Mammalian Cells](http://www.sciencedirect.com/science/article/pii/S0092867415014981) |  A.4025/6 |
 |4th Apr 2016 | Ximena Soto rodriguez | [Dynamics of epigenetic regulation at the single-cell level](http://science.sciencemag.org/content/351/6274/720) |  D.3301  |
 |9th May 2016 | Polly Downton | |   	A.4025/6  |
-|6th June 2016 | Syed Murtuza Baker | [Classification of low quality cells from single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0888-1) |   A.4025/6	  |
+|13th June 2016 | Syed Murtuza Baker | [Classification of low quality cells from single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0888-1) |   A.1018	  |
 |? | Nick Phillips| |    |
 
 
