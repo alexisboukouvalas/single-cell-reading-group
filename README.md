@@ -16,7 +16,7 @@ Meetings are at Michael Smith Building, Monday 11AM to 12PM.
 |29nd Feb 2016 | Veronica Biga | [Control of Transcript Variability in Single Mammalian Cells](http://www.sciencedirect.com/science/article/pii/S0092867415014981) |  A.4025/6 |
 |4th Apr 2016 | Ximena Soto rodriguez | [Dynamics of epigenetic regulation at the single-cell level](http://science.sciencemag.org/content/351/6274/720) |  D.3301  |
 |13th June 2016 | Syed Murtuza Baker | [Classification of low quality cells from single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0888-1) |   A.1018	  |
-|20th June 2016 | Nick Phillips| |  A.1018  |
+|20th June 2016 | Nick Phillips| [Mapping translation'hot-spots' in live cells by tracking single molecules of mRNA and ribosomes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lV3oTAIAAAAJ&sortby=pubdate&citation_for_view=lV3oTAIAAAAJ:-uzm3Y7AvW0C)|  A.1018  |
 |4th July 2016 | Polly Downton | |   	Not confirmed  |
 
 
