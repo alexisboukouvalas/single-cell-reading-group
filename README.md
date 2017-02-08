@@ -11,6 +11,7 @@ https://groups.google.com/forum/#!forum/single-cell-reading-group
 
 
 Previous meetings:
+
 |Date | Presenter | Topic | Room |
 |------------- | -------------|------------|------------|
 |26th Oct 2015| Eli Marinopoulou | [Oscope](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3549.html) | D.3301 |
