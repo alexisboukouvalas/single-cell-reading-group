@@ -1,11 +1,16 @@
 # single-cell-reading-group
 Single cell reading group
 
+If you are interested in participating please join the google group. Details 
+https://groups.google.com/forum/#!forum/single-cell-reading-group
 
 ## Timetable
-Meetings are at Michael Smith Building, Monday 11AM to 12PM.
+|Date-Time | Presenter | Topic | Room |
+|------------- | -------------|------------|------------|
+|17 Feb 2017, 2:30pm| Alexis Boukouvalas | [Census](http://cole-trapnell-lab.github.io/papers/Qiu-census/) aka Monocle 2. | A.1018 |
 
 
+Previous meetings:
 |Date | Presenter | Topic | Room |
 |------------- | -------------|------------|------------|
 |26th Oct 2015| Eli Marinopoulou | [Oscope](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3549.html) | D.3301 |
