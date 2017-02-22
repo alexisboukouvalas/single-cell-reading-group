@@ -8,6 +8,7 @@ https://groups.google.com/forum/#!forum/single-cell-reading-group
 |Date-Time | Presenter | Topic | Room |
 |------------- | -------------|------------|------------|
 |17 Feb 2017, 2:30pm| Alexis Boukouvalas | [Census](http://cole-trapnell-lab.github.io/papers/Qiu-census/) aka Monocle 2. | A.1018 |
+|9 Mar 2017, 3:00pm| Luisa Cutillo | [Cycler](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3545.html) | A.1018 |
 
 
 Previous meetings:
